@@ -17,3 +17,13 @@ if x>=20:
 else:
     print("你是未成年人，你的年龄是：%d,%s" %(x,'hr'))
 
+
+
+var1 = 1
+print(var1)
+del var1   #删除var1变量
+# print(var1)
+
+
+
+
