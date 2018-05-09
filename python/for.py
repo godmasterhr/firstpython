@@ -20,4 +20,4 @@ for i in range(len(list)):
     print("当前",list[i])
 
 
-
+print 1
